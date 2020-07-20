@@ -1,16 +1,7 @@
-# caraocoroa
+# Cara ou Coroa
 
-A new Flutter application.
+Projeto de app que simula a escolha de cara ou coroa. O app utiliza a linguagem Dart e o framework Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align="left" src="https://user-images.githubusercontent.com/8398636/87896136-c4a17780-ca1d-11ea-94c7-3948929154c3.png" width="135" height="253">
+<img align="left" src="https://user-images.githubusercontent.com/8398636/87896137-c5d2a480-ca1d-11ea-845e-b35b07646527.png" width="135" height="253">
+<img align="left" src="https://user-images.githubusercontent.com/8398636/87896138-c5d2a480-ca1d-11ea-8f56-a4b12ad4e5a8.png" width="135" height="253">
